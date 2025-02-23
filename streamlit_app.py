@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("hello WOF fans")
 a = 1
 b = 9
 c = a + b
