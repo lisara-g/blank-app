@@ -6,5 +6,5 @@ b = 3
 c = a + b
 
 st.write(
-    f                      "hi im lisara. I am {c} years old .head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    f"hi im lisara. I am {c} years old .head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
