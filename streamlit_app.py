@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("🎈 My new app")
 a = 1
-b = 3
+b = 9
 c = a + b
 
 st.write(
