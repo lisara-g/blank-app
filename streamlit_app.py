@@ -10,3 +10,5 @@ for i in range(20):
     st.write(
         f"hi im lisara. I am {i} years old .head over to [docs.streamlit.io](https://docs.streamlit.io/)."
     )
+
+    st.write(f"hey guys {i}")
