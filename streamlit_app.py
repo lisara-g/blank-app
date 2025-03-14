@@ -8,5 +8,5 @@ c = a + b
 for i in range(20):
 
     st.write(
-        f"hi im lisara. I am {c} years old .head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+        f"hi im lisara. I am {i} years old .head over to [docs.streamlit.io](https://docs.streamlit.io/)."
     )
